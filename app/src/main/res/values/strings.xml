@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">RestApi</string>
-    <string name="hint_1">Body</string>
-    <string name="hint_2">Title</string>
-    <string name="btn">Get Data</string>
-</resources>
